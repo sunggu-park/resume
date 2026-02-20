@@ -1,10 +1,11 @@
-# 박성구 / Sunggu Park
+# 데이터 속에서 답을 찾는 <br> 박성구입니다.
+
 📧 sunggu0824@gmail.com | 📱 010-4932-7157  
 🔗 LinkedIn: [linkedin.com/in/sunggu-park](linkedin.com/in/sunggu-park) | GitHub: [github.com/sunggu-park](github.com/sunggu-park)
 
 ---
 
-## 🎓 학력
+## 🎓 Education
 
 **토론토 대학교 (University of Toronto)**  
 학사 (HBSc), 응용통계학 (Applied Statistics) 및 공간 데이터과학 (Geospatial Data Science) 복수전공  
@@ -12,7 +13,7 @@
 
 ---
 
-## 💼 경력
+## 💼 Work Experience
 
 ### 스포츠투아이 
 **데이터 사이언티스트 인턴**  
@@ -24,7 +25,7 @@ KBO 경기 및 선수 데이터를 활용하여 투수가 다음에 던질 구�
 
 ---
 
-## 📊 프로젝트
+## 📊 Projects
 
 ### 1. [Spatiotemporal Crime Analysis](https://github.com/sunggu-park/Toronto-Crime-Rate)  
 GGR376 Final Project | 2025.01 – 2025.04
@@ -47,10 +48,10 @@ CSC311 Final Project | 2024.01 – 2024.04
 
 ---
 
-## 🛠 기술 역량
+## 🛠 Skills
 
-**프로그래밍 및 분석 툴**  
+**프로그래밍 및 분석 툴:**  
 Python, R, SQL, Java, ArcGIS Pro  
 
-**시각화 및 BI 툴**  
+**시각화 및 BI 툴:**  
 Tableau, Power BI, Word, Excel, PowerPoint  
